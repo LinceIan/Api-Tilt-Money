@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "birthDate": "2000-05-17",
+      "sexuality": "Outro",
+      "email": "Admin",
+      "password": "1234",
+      "phone": "31123412349",
+      "favoriteCoins": [
+        "USD"
+      ]
+    }
+  ]
+}
